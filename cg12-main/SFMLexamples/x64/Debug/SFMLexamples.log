@@ -1,0 +1,76 @@
+﻿  main.cpp
+C:\Users\Racer\source\repos\SFMLexamples\SFMLexamples\figure_model.h(57,1): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Racer\source\repos\SFMLexamples\SFMLexamples\lighting_file.h(525,1): warning C4305: -=: усечение из "double" в "float"
+C:\Users\Racer\source\repos\SFMLexamples\SFMLexamples\lighting_file.h(526,1): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Racer\source\repos\SFMLexamples\SFMLexamples\lighting_file.h(527,1): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Racer\source\repos\SFMLexamples\SFMLexamples\lighting_file.h(528,1): warning C4305: -=: усечение из "double" в "float"
+C:\Users\Racer\source\repos\SFMLexamples\SFMLexamples\lighting_Toon.h(523,1): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Racer\source\repos\SFMLexamples\SFMLexamples\lighting_Toon.h(524,1): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Racer\source\repos\SFMLexamples\SFMLexamples\lighting_Toon.h(525,1): warning C4305: -=: усечение из "double" в "float"
+C:\Users\Racer\source\repos\SFMLexamples\SFMLexamples\lighting_Toon.h(526,1): warning C4305: -=: усечение из "double" в "float"
+C:\Users\Racer\source\repos\SFMLexamples\SFMLexamples\lighting_Toon.h(527,1): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Racer\source\repos\SFMLexamples\SFMLexamples\lighting_Toon.h(528,1): warning C4305: -=: усечение из "double" в "float"
+C:\Users\Racer\source\repos\SFMLexamples\SFMLexamples\lighting_Minnaert.h(522,1): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Racer\source\repos\SFMLexamples\SFMLexamples\lighting_Minnaert.h(523,1): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Racer\source\repos\SFMLexamples\SFMLexamples\lighting_Minnaert.h(524,1): warning C4305: -=: усечение из "double" в "float"
+C:\Users\Racer\source\repos\SFMLexamples\SFMLexamples\lighting_Minnaert.h(525,1): warning C4305: -=: усечение из "double" в "float"
+C:\Users\Racer\source\repos\SFMLexamples\SFMLexamples\lighting_Minnaert.h(526,1): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Racer\source\repos\SFMLexamples\SFMLexamples\lighting_Minnaert.h(527,1): warning C4305: -=: усечение из "double" в "float"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\tuple(163,1): warning C4267: инициализация: преобразование из "size_t" в "_Ty"; возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\tuple(234): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::_Tuple_val<_This>::_Tuple_val<_Ty>(_Other &&)"
+          with
+          [
+              _This=int,
+              _Ty=unsigned __int64,
+              _Other=unsigned __int64
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\tuple(234): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::_Tuple_val<_This>::_Tuple_val<_Ty>(_Other &&)"
+          with
+          [
+              _This=int,
+              _Ty=unsigned __int64,
+              _Other=unsigned __int64
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\tuple(234): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::tuple<int>::tuple<std::_Exact_args_t,_Ty,,0>(_Tag,_This2 &&)"
+          with
+          [
+              _Ty=unsigned __int64,
+              _Tag=std::_Exact_args_t,
+              _This2=unsigned __int64
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\tuple(234): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::tuple<int>::tuple<std::_Exact_args_t,_Ty,,0>(_Tag,_This2 &&)"
+          with
+          [
+              _Ty=unsigned __int64,
+              _Tag=std::_Exact_args_t,
+              _This2=unsigned __int64
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\tuple(315): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::tuple<figure::Vertex *,int>::tuple<std::_Exact_args_t,figure::Vertex*&,_Ty,0>(_Tag,_This2,_Ty &&)"
+          with
+          [
+              _Ty=unsigned __int64,
+              _Tag=std::_Exact_args_t,
+              _This2=figure::Vertex *&
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\tuple(315): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::tuple<figure::Vertex *,int>::tuple<std::_Exact_args_t,figure::Vertex*&,_Ty,0>(_Tag,_This2,_Ty &&)"
+          with
+          [
+              _Ty=unsigned __int64,
+              _Tag=std::_Exact_args_t,
+              _This2=figure::Vertex *&
+          ]
+C:\Users\Racer\source\repos\SFMLexamples\SFMLexamples\figure_model.h(104): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::tuple<figure::Vertex *,int>::tuple<figure::Vertex*&,unsigned __int64,0>(_This2,unsigned __int64 &&) noexcept"
+          with
+          [
+              _This2=figure::Vertex *&
+          ]
+C:\Users\Racer\source\repos\SFMLexamples\SFMLexamples\figure_model.h(104): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::tuple<figure::Vertex *,int>::tuple<figure::Vertex*&,unsigned __int64,0>(_This2,unsigned __int64 &&) noexcept"
+          with
+          [
+              _This2=figure::Vertex *&
+          ]
+  SFMLexamples.vcxproj -> C:\Users\Racer\source\repos\SFMLexamples\x64\Debug\SFMLexamples.exe
