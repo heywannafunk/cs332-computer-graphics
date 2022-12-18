@@ -1,0 +1,20 @@
+C:\GitProjects\CompGraphics\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\GitProjects\CompGraphics\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\GitProjects\CompGraphics\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\GitProjects\CompGraphics\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\GitProjects\CompGraphics\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\GitProjects\CompGraphics\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\GitProjects\CompGraphics\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\GitProjects\CompGraphics\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\GitProjects\CompGraphics\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\GitProjects\CompGraphics\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Галушко Дмитрий\Documents\GitHub\CompGraphics\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Галушко Дмитрий\Documents\GitHub\CompGraphics\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Галушко Дмитрий\Documents\GitHub\CompGraphics\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Галушко Дмитрий\Documents\GitHub\CompGraphics\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Галушко Дмитрий\Documents\GitHub\CompGraphics\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Галушко Дмитрий\Documents\GitHub\CompGraphics\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Галушко Дмитрий\Documents\GitHub\CompGraphics\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Галушко Дмитрий\Documents\GitHub\CompGraphics\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Галушко Дмитрий\Documents\GitHub\CompGraphics\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Галушко Дмитрий\Documents\GitHub\CompGraphics\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
